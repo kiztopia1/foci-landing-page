@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   color: rgb(61, 61, 61);
+  background-color: #e5e6e1;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden !important;
 }
