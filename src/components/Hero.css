@@ -1,0 +1,38 @@
+.hero {
+  display: flex;
+  .content {
+    width: 60%;
+    padding: 40px;
+  }
+  h1 {
+    font-weight: "calsans";
+    font-size: 4rem;
+    span {
+      color: #4c8577;
+    }
+  }
+  p {
+    position: relative;
+    top: -30px;
+    font-size: 1.3rem;
+  }
+  a {
+    background-color: #4c8577;
+    border-radius: 8px;
+    padding: 20px;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+
+  /* image */
+  .image {
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .image img {
+    width: 350px;
+  }
+}
